@@ -1,3 +1,9 @@
+1. add thirdparty client
+2. organize md use ai
+3. 
+https://github.com/igorbenav/clientai
+
+
 # MarkItDown
 
 The MarkItDown library is a utility tool for converting various files to Markdown (e.g., for indexing, text analysis, etc.)
